@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.BlackKodi" name=".Black Kodi Wizard" version="2.0.0" provider-name="BlackKodi">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Black Kodi Wizard</summary>
+    <description lang="en">Black Kodi Wizard Easy Install for kodi</description>
+    <platform>all</platform>
+  </extension>
+</addon>

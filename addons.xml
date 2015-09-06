@@ -51,7 +51,7 @@
 
 <addon id="plugin.video.dextertv"
        name="dexterTV"
-       version="1.0"
+       version="1.0.0"
        provider-name="dexter's lab">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>

@@ -46,6 +46,8 @@
     </description>
     <platform>all</platform>
   </extension>
+  
+  </addon>
 
 <addon id="plugin.video.Daffyslist"
        name="Daffys iptv/VOD list"

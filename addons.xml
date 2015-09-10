@@ -17,6 +17,7 @@
     <platform>all</platform>
   </extension>
 </addon>
+
 </addon>
 
 <addon id="plugin.video.vdubt" name="Vdubt25" version="0.1.0" provider-name="Mikey1234">

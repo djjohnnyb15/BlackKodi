@@ -1,0 +1,292 @@
+[
+    {
+        "url": "welcome to Halow TV list", 
+        "image": "", 
+        "name": "[COLOR red]welcome[COLOR white] TO [COLOR green]Halow TV[/COLOR]"
+    }, 
+    {
+        "url": "Donate me think I'm doing good job please", 
+        "image": "", 
+        "name": "[COLOR red][I][B]Donate me if you think I do a good job, then link down[/B][/I][/COLOR]"
+    }, 
+    {
+        "url": "http://iptv-halow.blogspot.se/", 
+        "image": "", 
+        "name": "[COLOR red][I][B]http://iptv-halow.blogspot.se/[/B][/I][/COLOR]"
+    }, 
+    {
+        "url": "http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8", 
+        "image": "", 
+        "name": "MANCHESTER CITY TV"
+    }, 
+    {
+        "url": "http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8", 
+        "image": "", 
+        "name": " BARÇA TV"
+    }, 
+    {
+        "url": "http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8", 
+        "image": "", 
+        "name": " BARÇA TV HD"
+    }, 
+    {
+        "url": "http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8", 
+        "image": "", 
+        "name": " LIVERPOOL TV"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/UK/Sky-MUTV/index.m3u8", 
+        "image": "", 
+        "name": "MUTV"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/UK/Sky-Chelsea-TV-HD/index.m3u8", 
+        "image": "", 
+        "name": "Chelsea TV"
+    }, 
+    {
+        "url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on", 
+        "image": "", 
+        "name": "Real madrid tv"
+    }, 
+    {
+        "url": "rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc", 
+        "image": "", 
+        "name": "Sevilla tv"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/Spain/CANAL-LIGA-HD/index.m3u8", 
+        "image": "", 
+        "name": "CANAL + HD LIGA"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/Spain/Gol-Tv/index.m3u8", 
+        "image": "", 
+        "name": "GOL TV HD"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDc6Mjg6NDkgUE0maGFzaF92YWx1ZT1WV211RjMvRXdoSHE1Sk5WR2FuVFRnPT0mdmFsaWRtaW51dGVzPTM=/sky1", 
+        "image": "", 
+        "name": "SKY SPORT 1 HD"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NDM6MzIgUE0maGFzaF92YWx1ZT14WUlyRWE0am43YjRjWHpJTlRHZjBnPT0mdmFsaWRtaW51dGVzPTM=/sky2 ", 
+        "image": "", 
+        "name": "Sky Sports 2 HD"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NDU6MzUgUE0maGFzaF92YWx1ZT13VXFPUEl6SVRlcUNoOGdmSEdobS9nPT0mdmFsaWRtaW51dGVzPTM=/sky3", 
+        "image": "", 
+        "name": "Sky Sports 3 HD"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NDU6MzUgUE0maGFzaF92YWx1ZT13VXFPUEl6SVRlcUNoOGdmSEdobS9nPT0mdmFsaWRtaW51dGVzPTM=/sky4", 
+        "image": "", 
+        "name": "Sky Sports 4 HD"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NDU6MzUgUE0maGFzaF92YWx1ZT13VXFPUEl6SVRlcUNoOGdmSEdobS9nPT0mdmFsaWRtaW51dGVzPTM=/sky5", 
+        "image": "", 
+        "name": "Sky Sports 5 HD"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NDg6NDYgUE0maGFzaF92YWx1ZT0wUFh5MGU3Z3VvQmRZQnVNV2tvbHdBPT0mdmFsaWRtaW51dGVzPTM=/skynews", 
+        "image": "", 
+        "name": "Sky sport News"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDc6MTE6MDAgUE0maGFzaF92YWx1ZT0vUlRLREFnZXF4ZE1ONnFOLytUOFRRPT0mdmFsaWRtaW51dGVzPTM=/skyf1", 
+        "image": "", 
+        "name": "Sky sport F1"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/UK/Premier-Sports/index.m3u8", 
+        "image": "", 
+        "name": "Premier-Sport"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NTM6NTEgUE0maGFzaF92YWx1ZT0zRm43N0ZNZVVWMFpBU2lialVCK05nPT0mdmFsaWRtaW51dGVzPTM=/btsports1", 
+        "image": "", 
+        "name": "BT Sports1"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NTM6NTEgUE0maGFzaF92YWx1ZT0zRm43N0ZNZVVWMFpBU2lialVCK05nPT0mdmFsaWRtaW51dGVzPTM=/btsports2", 
+        "image": "", 
+        "name": "BT Sports 2"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/DE/Sky-Sports1-HD/index.m3u8", 
+        "image": "", 
+        "name": "Sky-Sports 1 (DE)"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/DE/Sky-Sports2-HD/index.m3u8", 
+        "image": "", 
+        "name": "Sky-Sports 2 (DE)"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDE1IDY6Mjg6MTcgUE0maGFzaF92YWx1ZT12bThFMUpZSnFPWnQ0L1NVU0xEV3hnPT0mdmFsaWRtaW51dGVzPTM=//espnusa", 
+        "image": "", 
+        "name": "ESPN USA HD"
+    }, 
+    {
+        "url": "http://istariptv.dyndns-ip.com:2200/Spain/CANAL-GOLF-HD/index.m3u8", 
+        "image": "", 
+        "name": "CANAL GOLF"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDE1IDY6MzE6MjYgUE0maGFzaF92YWx1ZT13c1F4TWw2N1FEb0ZEUzBJY2pUWHFRPT0mdmFsaWRtaW51dGVzPTM=//tsn1", 
+        "image": "", 
+        "name": "TSN GOLF HD"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDE1IDY6MzI6MjIgUE0maGFzaF92YWx1ZT1rOGVNSlRSSUpEem83YkdBVFZWeGNBPT0mdmFsaWRtaW51dGVzPTM=//racinguk", 
+        "image": "", 
+        "name": "Racing UK HD"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE1IDg6MTQ6MDEgUE0maGFzaF92YWx1ZT1lQXBjc2laNWhvY2dBbTV5bTRwanpBPT0mdmFsaWRtaW51dGVzPTM=//fs1", 
+        "image": "", 
+        "name": "Fox Sport 1"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE1IDQ6NDc6NDggUE0maGFzaF92YWx1ZT1HeUFCOFJXMW05VC9yYUlscGVtaTBBPT0mdmFsaWRtaW51dGVzPTM=//boxnation", 
+        "image": "", 
+        "name": "BOX NATION"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/NL-Fox-Sports1/index.m3u8", 
+        "image": "", 
+        "name": "Fox sports 1"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/NL-Fox-Sports2/index.m3u8", 
+        "image": "", 
+        "name": "Fox sports 2"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/NL-Fox-Sports3/index.m3u8", 
+        "image": "", 
+        "name": "Fox Sports 3"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/NL-Fox-Sports4/index.m3u8", 
+        "image": "", 
+        "name": "Fox Sports 4"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/NL-Fox-Sports5/index.m3u8", 
+        "image": "", 
+        "name": "fox sports 5"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/NL-Sport1-Select-HD/index.m3u8", 
+        "image": "", 
+        "name": "NL Sport1-Select-HD"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/NL-Sport1-Voetbal-HD/index.m3u8", 
+        "image": "", 
+        "name": "NL Sport1 Voetbal HD"
+    }, 
+    {
+        "url": "http://istariptv.dyndns-ip.com:2200/US/NBA-TV/index.m3u8", 
+        "image": "", 
+        "name": "NBA TV"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/ALB/SUPER-Sport1/index.m3u8", 
+        "image": "", 
+        "name": "ALB SUPER SPORT 1"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/ALB/SUPER-Sport2/index.m3u8", 
+        "image": "", 
+        "name": "ALB SUPER SPORT 2"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/ALB/SUPER-Sport3/index.m3u8", 
+        "image": "", 
+        "name": "ALB SUPER SPORT 3"
+    }, 
+    {
+        "url": "http://istariptv1.dyndns-ip.com:2200/ALB/SUPER-Sport4/index.m3u8", 
+        "image": "", 
+        "name": "ALB SUPER SPORT 4"
+    }, 
+    {
+        "url": "http://istariptv.dyndns-ip.com:2200/US/Ten-Sport/index.m3u8", 
+        "image": "", 
+        "name": "USA- Ten SPORT"
+    }, 
+    {
+        "url": "http://hlsstr02.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?version=2 ", 
+        "image": "", 
+        "name": "VIASAT SPORT HD "
+    }, 
+    {
+        "url": "http://hlsstr04.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2 ", 
+        "image": "", 
+        "name": "VIASAT GOLF HD "
+    }, 
+    {
+        "url": "http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2 ", 
+        "image": "", 
+        "name": "FUTBOL1 HD "
+    }, 
+    {
+        "url": "http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2 ", 
+        "image": "", 
+        "name": "FUTBOL2 HD "
+    }, 
+    {
+        "url": "http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2 ", 
+        "image": "", 
+        "name": "FUTBOL3 HD "
+    }, 
+    {
+        "url": "http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8 ", 
+        "image": "", 
+        "name": "FUTBOL TV "
+    }, 
+    {
+        "url": "http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8?", 
+        "image": "", 
+        "name": "FUTBOL TV "
+    }, 
+    {
+        "url": "http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8", 
+        "image": "", 
+        "name": "[COLOR yellow] RUS - SPORT 1 [/COLOR]"
+    }, 
+    {
+        "url": "rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE1IDg6MTc6MzMgUE0maGFzaF92YWx1ZT1rWUVucnRYVllvaU9QWEJPdngreEZnPT0mdmFsaWRtaW51dGVzPTM=//wwenetwork", 
+        "image": "", 
+        "name": "WWE Network "
+    }, 
+    {
+        "url": "http://portal.rapidiptv.com:8080/live/sozdar00/sozdar024/3182.ts", 
+        "image": "", 
+        "name": "Arena Sport 1"
+    }, 
+    {
+        "url": "http://portal.rapidiptv.com:8080/live/sozdar00/sozdar024/3183.ts", 
+        "image": "", 
+        "name": "Arena Sport 2"
+    }, 
+    {
+        "url": "http://portal.rapidiptv.com:8080/live/sozdar00/sozdar024/3184.ts", 
+        "image": "", 
+        "name": "Arena Sport 3"
+    }, 
+    {
+        "url": "http://portal.rapidiptv.com:8080/live/sozdar00/sozdar024/3185.ts", 
+        "image": "", 
+        "name": "Arena Sport 4"
+    }, 
+    {
+        "url": "http://portal.rapidiptv.com:8080/live/sozdar00/sozdar024/3186.ts", 
+        "image": "", 
+        "name": "Arena Sport 5"
+    }
+]

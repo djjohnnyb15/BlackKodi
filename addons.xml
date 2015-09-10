@@ -19,6 +19,7 @@
 </addon>
 
 
+
 <addon
   id="plugin.video.gorillastreams"
   version="2.1"
@@ -42,7 +43,7 @@
   </extension>
 </addon>
 
-
+</addon>
 
 <addon id="plugin.video.direto" name="TV Direto" version="1.0.0" provider-name="Joel">
   <requires>

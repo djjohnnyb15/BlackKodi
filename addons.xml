@@ -41,7 +41,7 @@
   </extension>
 </addon>
 
-
+</addon>
 
 <addon id="plugin.video.direto" name="TV Direto" version="1.0.0" provider-name="Joel">
   <requires>
@@ -105,6 +105,25 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.ukturk" name="UK Turk Playlists" version="1.4.1" provider-name="MetalKettle">
+  <requires>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Free Sports Streams courtesy of @uk_turk</summary>
+    <description lang="en">Free Sports Streams courtesy of @uk_turk</description>
+    <platform>all</platform>
+  </extension>
+</addon>
 
 <addon id="plugin.video.zeus" name="[COLOR black].[/COLOR][COLOR yellow]ZEUS VIDEO[/COLOR]" version="1.0.5" provider-name="ZEUS">
   <requires>

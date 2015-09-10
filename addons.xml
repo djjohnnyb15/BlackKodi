@@ -161,7 +161,7 @@ Thats all Folks
   </extension>
 </addon>
 
-</addon>
+
 
 <addon id="plugin.video.direto" name="TV Direto" version="1.0.0" provider-name="Joel">
   <requires>

@@ -17,6 +17,7 @@
     <platform>all</platform>
   </extension>
 </addon>
+</addon>
 
 <addon
   id="plugin.video.gorillastreams"

@@ -18,79 +18,7 @@
   </extension>
 </addon>
 
-</addon>
 
-<addon id="plugin.video.vdubt" name="Vdubt25" version="0.1.0" provider-name="Mikey1234">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.urlresolver" version="0.0.1"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="script.common.plugin.cache" version="2.5.5"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Vdubt25</summary>
-    <description lang="en">Watch All Your Favourite Streams From Vdubt25</description>
-    <platform>all</platform>
-  </extension>
- 
- </addon>
-
-<addon id="plugin.video.ccloudtv"
-       name="cCloud TV"
-       version="1.3.2"
-       provider-name="podgod">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />    
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>All the best from cCloud TV</summary>
-    <description>
-	 cCloud Popcorntime for LIVE TV, an open source project.
-	 Just click, play and stream because IPTV just got simple and easy:) 
-        
-    </description>
-    <platform>all</platform>
-  </extension>
-  
-  </addon>
-<addon
-  id="plugin.video.gorillastreams"
-  version="2.1"
-  name="Gorilla Streams 2.0"
-  provider-name="Gorilla Streams">
-  <requires>
-   <import addon="xbmc.python" version="2.1.0"/>
-   <import addon="script.common.plugin.cache" version="0.9.1"/>
-  </requires>
-  <extension 
-    point="xbmc.python.pluginsource"
-    library="default.py">
-   <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Streaming made easy.</summary>
-    <description lang="en">No streams are hosted by Gorilla. The code for this addon was originally wrote by MaxMustermann for the Sportsdevil addon and then modified by Dragon Streams and has now been modified by Gorilla Streams</description>
-    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon</disclaimer>
-	<platform>all</platform>
-	<language>en</language>
-  </extension>
-</addon>
 
 <addon id="repository.BlackKodi-Repo" name="BlackKodi-Repo" version="1.0.0" provider-name="BlackKodi">
 	<extension point="xbmc.addon.repository" name="BlackKodi-Repo">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-</addon>
+
 
 <addon id="plugin.video.BlackKodi" name=".Black Kodi Wizard" version="2.0.0" provider-name="BlackKodi">
   <requires>
@@ -33,7 +33,8 @@
     <description lang="en">Watch All Your Favourite Streams From Vdubt25</description>
     <platform>all</platform>
   </extension>
-
+ 
+ </addon>
 
 <addon id="plugin.video.ccloudtv"
        name="cCloud TV"

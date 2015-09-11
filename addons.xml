@@ -304,20 +304,16 @@ http://robinhoodgroup-tv.info/community/index.php</summary>
   </extension>
 </addon>
 
-<addon id="plugin.video.streamengine" name="Stream Engine" version="1.1.5" provider-name="Mucky Duck,Stream Engine">
+<addon id="plugin.video.bbciplayer" name="BBC iPlayer" version="0.1.0" provider-name="Mikey1234">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.simplejson" version="3.3.0"/>
-	<import addon="script.module.urlresolver"  version="2.1.2"/>
-	<import addon="script.module.addon.common" />
-	<import addon="repository.mdrepo" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Top Quality Streaming Source.</summary>
-    <description lang="en"></description>
+    <summary lang="en">BBC iPlayer</summary>
+    <description lang="en">BBC iPlayer</description>
     <platform>all</platform>
   </extension>
 </addon>

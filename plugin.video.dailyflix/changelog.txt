@@ -1,0 +1,83 @@
+V1.40
+HAPPY NEW YEAR!!! Updated to include 2015 :)
+
+V1.33
+Added Support for Gotham
+
+V1.32
+Fixed IMDB Code
+Added MicroHD folder
+Added MKV/MP4 (H264) folder
+
+v1.31
+REMOVED GA :)
+Added 2014 folders
+
+v1.30
+Changed dailyflix icon to work better with certain skins
+
+v1.29
+Added a small piece of script so another app can use the dailyflix search results
+
+v1.28
+FINALLY sorted out the resolver settings. You can now use your log in details for sites like VeeHD and Movreel etc.
+
+v1.27
+Removed some false scrapes
+
+v1.26
+Improved some of the site scraping
+
+v1.25
+Removed filestube links from results
+
+v1.24
+Added Foreign Movies
+Corrected script error when no imdb plot summary
+
+v1.23
+Tightened IMDB code
+
+v1.22
+Added support for showing IMDB information
+
+v1.21
+Should automatically install urlresolver on install. (I installed XMBC on my phone and realised I'd not done that yet as Dailyflix gave me a script error when I ran it! :D *facepalm*)
+
+v1.20
+Tightened up how the cover art is grabbed so it displays the correct image
+Neatened up a few alignments within the menus
+
+v1.19
+Fixed site updates
+
+v1.18
+Sorted some regex oddities
+
+v1.17
+Fixed Tv Shows with another site update (All formats have been merged)
+
+v1.16
+Fixed prev/next in search results
+GA Update
+
+v1.15
+Site Updates
+
+v1.14
+Site Updates
+
+v1.13
+Site Updates
+
+v1.11
+GA update
+
+v1.1
+Added Preretail directory
+Added support for more than 8 seasons. The most seasons a show ever got was 24!!!
+Updated GA
+Refined a few scrapes to omit links to facebook etc.
+
+v1.0
+Initial Release

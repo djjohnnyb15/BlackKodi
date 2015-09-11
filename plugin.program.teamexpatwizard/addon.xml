@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.teamexpatwizard" name="[B]Team[/B] eXpat Wizard" version="1.0.1" provider-name="AdrXbmc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Team ExPat Wizard</summary>
+    <description lang="en">Easy Install for [COLOR green][B]Team[/B] eXpat[/COLOR] Builds</description>
+    <platform>all</platform>
+  </extension>
+</addon>

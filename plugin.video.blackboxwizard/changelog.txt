@@ -1,0 +1,12 @@
+1.2.0
+- Added Sports Donkey Build (REQUIRES PAID SUBSCRIPTION)
+
+1.1.0
+- Added Maintenance Options
+- Included Fresh Start
+- Code Cleaned
+- Whole GUI Redesign
+- Added to Elmore Repo
+
+1.0.0
+- initial version release

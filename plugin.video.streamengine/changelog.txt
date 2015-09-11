@@ -1,0 +1,25 @@
+v1.1.3 security measures started to be put in to place
+
+v1.1.2 fixes
+
+v1.1.1 added youtube search and user channels
+
+v1.1.0 GUI cosmetic work
+
+v1.0.7 metal kettle pointed us in the right direction to play rtmp
+
+v1.0.6 changed twiter feed to pop up window
+
+v1.0.5 changed url to bring back online
+
+v1.0.4 fixed mistake
+
+v1.0.3 added twittter feed
+
+v1.0.2 made lists alphabetical order
+
+v1.0.1
+recoded by Mucky Duck
+
+v1.0.0
+Initial Release

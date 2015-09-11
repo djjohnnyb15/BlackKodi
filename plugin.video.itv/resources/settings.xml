@@ -1,0 +1,26 @@
+<settings>
+  <!-- Streams -->
+  <category label="30200">
+    <setting id="subtitles_control" label="30130"  type="bool" default="false" />
+    <setting id="video_stream" label="30210" type="enum" values="Auto|H.264 (400Kb)|H.264 (600kb)|H.264 (800kb)|H.264 (1200kb)" default="0" />
+    <setting id="live_stream" label="30211" type="enum" values="600kb|800kb|1200kb" default="0" />
+    <setting id="ga_time" type="text" label="GA Called" default="2000-01-01 00:00:00" visible="false"/>
+    <setting id="visitor_ga" type="text" label="GA visitor" default="" visible="false"/>
+  </category>
+  <!-- Proxy -->
+  <category label="30300">
+    <setting id="proxy_use" label="30310" type="bool" default="false" />
+    <setting id="proxy_type" label="30315" type="enum" values="HTTP" enable="eq(-1,true)" default="0" />
+    <setting id="proxy_server" label="30320" type="text" default="" enable="eq(-2,true)" />
+    <setting id="proxy_port" label="30330" type="number" default="" enable="eq(-3,true)" />
+    <setting id="proxy_user" label="30340" type="text" enable="eq(-4,true)"  />
+    <setting id="proxy_pass" label="30350" type="text" option="hidden" enable="!eq(-4,2) + eq(-5,true)" />
+  </category>
+  <!-- Auto View -->
+  <category label="Auto-View">
+	<setting id="auto-view" type="bool" label="Enable Automatic View" default="true"/>
+	<setting id="default" type="number" label="Main Screen" default="50" enable="!eq(-1,false)"/>
+	<setting id="show" type="number" label="Shows Listing" default="50" enable="!eq(-1,false)"/>
+	<setting id="episode" type="number" label="Episode Listing" default="503" enable="!eq(-1,false)"/>
+   </category>
+</settings>

@@ -1,0 +1,11 @@
+[B]March 4 2015[/B]
+0.1.2:
+  - Fix EOL for Android on Windows build
+
+[B]February 20 2015[/B]
+0.1.1:
+  - Fix EOL for Android
+
+[B]February 20 2015[/B]
+0.1.0:
+  - First production version

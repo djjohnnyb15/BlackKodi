@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.dextertv" name="dextertv repo" version="1.0" provider-name="dexter">
+	<extension point="xbmc.addon.repository" name="dexter Addon Repository">
+		<info compressed="false">https://raw.githubusercontent.com/xoptimus/dexter/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/xoptimus/dexter/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/xoptimus/dexter/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install My Addons</summary>
+		<description>Download and install addons from dexter!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Category strings -->
+    <string id="20000">General</string>
+    <string id="20001">Turn on Debug Mode</string>
+    <string id="20002">Proxy port number</string>
+    <string id="30000">Hosts</string>
+    <string id="30001">URL</string>
+    <string id="30002">YouTube</string>
+    <string id="30003">BiggestPlayer</string>
+    <string id="30004">Relayer</string>
+    <string id="30005">Veetle</string>
+    <string id="30006">VaughnLive</string>
+    <string id="30007">RTMPDump</string>
+    <string id="30008">FilmOn</string>
+    <string id="30009">UStream</string>
+    <string id="30010">LiveStream</string>
+    <string id="30011">Twitch</string>
+</strings>

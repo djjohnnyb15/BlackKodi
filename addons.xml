@@ -756,6 +756,24 @@ http://robinhoodgroup-tv.info/community/index.php</summary>
 	</extension>
 </addon>
 	
+	<addon id="plugin.video.mobdro"
+	name="Mobdro"
+	version="1.04"
+	provider-name="AddonHacker">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Mobdro</summary>
+    <description lang="en">Watch Mobdro content</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+	
 <addon id="repository.BlackKodi-Repo" name="BlackKodi-Repo" version="1.0.0" provider-name="BlackKodi">
 	<extension point="xbmc.addon.repository" name="BlackKodi-Repo">
 		<info compressed="false">https://raw.githubusercontent.com/djjohnnyb15/BlackKodi/master/addons.xml</info>

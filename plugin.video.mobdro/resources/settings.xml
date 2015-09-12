@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="20000">
+    	<setting label="20001" type="bool" id="DEBUG" default="false"/>
+    	<setting label="20002" type="number" range="43123,63123" id="PROXY_PORT" default="63123"/>
+    </category>
+    <category label="30000">
+    	<setting label="30001" type="bool" id="HOST_URL" default="true"/>
+    	<setting label="30002" type="bool" id="HOST_YOUTUBE" default="true"/>
+    	<setting label="30003" type="bool" id="HOST_BIGGESTPLAYER" default="true"/>
+    	<setting label="30004" type="bool" id="HOST_RELAYER" default="true"/>
+    	<setting label="30005" type="bool" id="HOST_VEETLE" default="true"/>
+    	<setting label="30006" type="bool" id="HOST_VAUGHNLIVE" default="true"/>
+    	<setting label="30007" type="bool" id="HOST_RTMPDUMP" default="true"/>
+    	<setting label="30008" type="bool" id="HOST_FILMON" default="true"/>
+    	<setting label="30009" type="bool" id="HOST_USTREAM" default="true"/>
+    	<setting label="30010" type="bool" id="HOST_LIVESTREAM" default="true"/>
+    	<setting label="30011" type="bool" id="HOST_TWITCH" default="true"/>
+    </category>
+</settings>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.dextertv"
+       name="dexterTV"
+       version="1.0.6"
+       provider-name="dexter's lab">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" /> 
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>	
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Live Stream Popular USA/International Networks.</summary>
+    <description>
+	[COLOR red]This addon is an alternative to IPTV stalker.
+	I do not own/host any of the content found here.[/COLOR]
+	I will do my best to keep channels updated.
+	Donate links/m3u8 to dexteraddon@gmail.com
+	[COLOR yellow]Would you kindly? https://goo.gl/2oudos
+	Would you kindly? A man chooses.....[/COLOR]
+	All Credit to podgod for coding.
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+

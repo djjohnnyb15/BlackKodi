@@ -1,0 +1,6 @@
+﻿<settings>
+  <category label="General">
+    
+	<setting label="Enable Auto Play" default="false" type="bool" id="autoplay"/>
+  </category>
+</settings>
